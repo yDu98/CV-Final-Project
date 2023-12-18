@@ -10,6 +10,21 @@ This project is part of a final assignment for a Computer Vision course. It util
 - Analyze and process images using Python and OpenCV.
 - Integration of advanced machine learning algorithms.
 
+## Setup
+
+Create a new virtual environment.
+
+```bash
+python -m venv myenv
+```
+
+Activate your virtual environment
+
+```bash
+source tfod/bin/activate # Linux
+.\tfod\Scripts\activate # Windows
+```
+
 ## Installation
 
 To get started with this project, clone this repository and install the required dependencies.
