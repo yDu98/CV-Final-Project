@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is part of a final assignment for a Computer Vision course. It utilizes state-of-the-art machine learning and computer vision techniques to solve a specific problem (briefly describe the problem here). The main focus of this project is  to automate facial expression detection using a deep learning model.
+This project is part of a final assignment for a Computer Vision course. It utilizes state-of-the-art machine learning and computer vision techniques to solve a specific problem (briefly describe the problem here). Facial expression detection is a critical area in the field of computer vision and machine learning, with wide-ranging applications from human-computer interaction to psychological research. The primary challenge lies in accurately identifying and categorizing diverse human emotions through facial cues. The main focus of this project is  to automate facial expression detection using a deep learning model.
 
 ## Features
 
