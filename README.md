@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is part of a final assignment for a Computer Vision course. It utilizes state-of-the-art machine learning and computer vision techniques to solve a specific problem (briefly describe the problem here). The main focus of this project is to demonstrate practical application of skills in computer vision using various tools and algorithms.
+This project is part of a final assignment for a Computer Vision course. It utilizes state-of-the-art machine learning and computer vision techniques to solve a specific problem (briefly describe the problem here). The main focus of this project is  to automate facial expression detection using a deep learning model.
 
 ## Features
 
