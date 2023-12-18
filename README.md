@@ -27,12 +27,20 @@ Create a new virtual environment.
 python -m venv myenv
 ```
 
+
 Activate your virtual environment
 
 ```bash
 source myenv/bin/activate # Linux
 .\myenv\Scripts\activate # Windows
+
+code .
 ```
+
+select Kernel
+
+select python environment-> select myenv
+
 
 ## Usage
 
