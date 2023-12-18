@@ -10,6 +10,15 @@ This project is part of a final assignment for a Computer Vision course. It util
 - Analyze and process images using Python and OpenCV.
 - Integration of advanced machine learning algorithms.
 
+## Installation
+
+To get started with this project, clone this repository and install the required dependencies.
+
+```bash
+git clone https://github.com/yDu98/CV-Final-Project.git
+cd CV-Final-Project
+```
+
 ## Setup
 
 Create a new virtual environment.
@@ -23,15 +32,6 @@ Activate your virtual environment
 ```bash
 source myenv/bin/activate # Linux
 .\myenv\Scripts\activate # Windows
-```
-
-## Installation
-
-To get started with this project, clone this repository and install the required dependencies.
-
-```bash
-git clone https://github.com/yDu98/CV-Final-Project.git
-cd CV-Final-Project
 ```
 
 ## Usage
