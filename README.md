@@ -21,8 +21,8 @@ python -m venv myenv
 Activate your virtual environment
 
 ```bash
-source tfod/bin/activate # Linux
-.\tfod\Scripts\activate # Windows
+source myenv/bin/activate # Linux
+.\myenv\Scripts\activate # Windows
 ```
 
 ## Installation
